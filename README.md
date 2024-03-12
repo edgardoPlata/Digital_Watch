@@ -8,4 +8,4 @@ In this simple project, I was practicing how to implement JS with HTML and CSS
 
 ## Demo
 
-- [Digital_Watch](https://edgardoplata.github.io/Design_Agency/)
+- [Digital_Watch](https://edgardoplata.github.io/Digital_Watch/)
